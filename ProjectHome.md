@@ -1,0 +1,1 @@
+Analog clock widget accessible from the Internet
